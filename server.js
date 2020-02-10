@@ -7,6 +7,7 @@ const app =express();
 const expresslayouts = require('express-ejs-layouts');
 const indexRouter = require('./routes/index');
 
+
 app.set('view engine' );
 
 app.set('view engine','ejs');
